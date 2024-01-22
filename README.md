@@ -11,7 +11,7 @@ This repository contains a project focused on predicting chronic kidney disease 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chronic-kidney-disease.git
+   git clone https://github.com/perarulalan15/chronic-kidney-disease.git
    cd chronic-kidney-disease
    ```
 
